@@ -9,7 +9,7 @@ The current version triggers UAC. I'm working on a solution.
 
 Not to be used for malicious purposes.
 
-Example input: -website: www.youtube.com -redirect IP: 1.1.1.1
-This example will redirect www.youtube.com to 1.1.1.1.(Basically nowhere).
+Example input: -website: example.com -redirect IP: 1.1.1.1
+This example will redirect 'example.com' to '1.1.1.1'.(Basically nowhere).
 
 If you encounter any issues, please contact me.
